@@ -13,7 +13,7 @@
 		[SerializeField]
 		private RawImage resultImage;
 		private RectTransform parent;
-		private RectTransform imageTransform;
+		protected RectTransform imageTransform;
 		private Texture2D renderedTexture = null;
 
 		protected Unity.TextureConversionParams TextureParameters { get; private set; }
