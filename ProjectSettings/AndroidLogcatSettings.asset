@@ -1,0 +1,185 @@
+{
+    "m_SelectedDeviceId": "6db862fc",
+    "m_SelectedPackage": {
+        "deviceId": "6db862fc",
+        "name": "com.Jasr.OpenCVExperiment",
+        "processId": 12258,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "6db862fc",
+            "name": "com.miui.home",
+            "processId": 2668,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 16388,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 17815,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 18273,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 19311,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 26405,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 26784,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 28120,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 29140,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 30166,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 31495,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 32349,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 3176,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 3851,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 5170,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 6365,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 7098,
+            "exited": true
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 11788,
+            "exited": false
+        },
+        {
+            "deviceId": "6db862fc",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 12258,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY226BXKV8",
+            "name": "com.Jasr.OpenCVExperiment",
+            "processId": 32566,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "Unity",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
