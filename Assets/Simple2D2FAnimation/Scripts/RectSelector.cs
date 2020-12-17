@@ -101,7 +101,7 @@ namespace FunnyFace.Simple2D2FAnimation {
 
 			isDragging = true;
 			startPoint = eventData.position;
-			Debug.Log ();
+			Debug.Log ("start point:" + startPoint);
 		}
 
 		public void OnDrag(PointerEventData eventData) {
@@ -111,6 +111,7 @@ namespace FunnyFace.Simple2D2FAnimation {
 		public void OnEndDrag(PointerEventData eventData) {
 			endPoint = eventData.position;
 			isDragging = false;
+			Debug.Log ("end point:" + endPoint);
 		}
 	}
 }
